@@ -1,16 +1,11 @@
-# aqibproject1
+# Zee Palm UI Code
 
-A new Flutter project.
+Home Appliances App UI done with Flutter 3.7.0
 
-## Getting Started
+## Details
 
-This project is a starting point for a Flutter application.
+This project includes Home Appliances App UI with multiple screens.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/zeepalm-training-grounds/home-appliance/assets/128903428/e6c58922-b415-4ace-ab59-4dab91f25efc" width="200" height="400" />
+<img src="https://github.com/zeepalm-training-grounds/home-appliance/assets/128903428/089555dd-f61e-47a5-bd5a-30a0fc24c884" width="200" height="400" />
+<img src="https://github.com/zeepalm-training-grounds/home-appliance/assets/128903428/87df396e-1311-42ab-a9ad-65fa707651db" width="200" height="400" />
